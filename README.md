@@ -146,7 +146,7 @@
 	</tr>
 	<tr>
 		<td>3</td>
-		<td><a href="https://www.google.com"> Fast Intra Mode Selection in HEVC Using Statistical Model </a></td>
+		<td>Fast Intra Mode Selection in HEVC Using Statistical Model</td>
 		<td>CMC - Computers, Materials & Continua</td>
 		<td>3.860 </td>
 		<td>27-Sep-2021</td>
