@@ -19,3 +19,10 @@ Received Bachelor's, Master's, and Ph.D. degrees in Computer Science department 
 | BS (CS) | Comsats University Islamabad, Wah Campus, Pakistan | 2012 | 2016 | Web Engineering | 4.00 | 3.37 |
 | I.C.S | Govt. Degree College Layyah, Punjab | 2008 | 2011 | Computer Science | 1100 | 654 |
 | Matric | Govt. MC High School Layyah, Punjab | 2006 | 2008 | Computer Science | 850 | 660 |
+
+# Academic Projects
+|  Title | Degree | Year | Domain | Publication(s) |
+|  ----- | :-------------------------- | :--: | :--: | :--: |
+| <a href="https:/www/google.com"> Human Action Recogition in Uncontrolled Environment </a>| Ph.D. (CS) | 2022 | Machine Learning | <a href="https:/www/google.com"> Publication 1 </a> <br> <a href="https:/www/google.com"> Publication 2 </a> <br> <a href="https:/www/google.com"> Publication 3 </a> |
+| <a href="https:/www/google.com"> Document Classification </a> | MS (CS) | 2018 | Machine Learning | <a href="https:/www/google.com"> Publication </a> |
+| <a href="https:/www/google.com"> E-Classroom for Interactive Learning </a> | BS (CS) | 2016 | Web Engineering | None |
