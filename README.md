@@ -173,7 +173,7 @@
 	</tr>
 	<tr>
 		<td>6</td>
-		<td><a href="https://www.google.com"> An Optimized Approach for Breast Cancer Classification for Histopathological Images based on Hybrid Feature Set </a></td>
+		<td><a href="https://github.com/imashoodnasir/Breast-Cancer-Classification-for-Histopathological-Images"> An Optimized Approach for Breast Cancer Classification for Histopathological Images based on Hybrid Feature Set </a></td>
 		<td>Current Medical Imaging</td>
 		<td>1.315</td>
 		<td>1-Jan-2021</td>
