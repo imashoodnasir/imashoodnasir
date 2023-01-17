@@ -108,7 +108,7 @@
 		<td><a href="https:/www/google.com"> Publication </a></td>
 	</tr>
 	<tr>
-		<td><a href="https:/www/google.com"> E-Classroom for Interactive Learning </a></td>
+		<td><a href="https://github.com/imashoodnasir/E-Classroom-for-Interactive-and-Connected-Learning"> E-Classroom for Interactive Learning </a></td>
 		<td>BS(CS)</td>
 		<td>2016</td>
 		<td>Web Engineering</td>
