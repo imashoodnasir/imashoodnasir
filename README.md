@@ -101,7 +101,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td><a href="https:/www/google.com"> Document Classification </a></td>
+		<td><a href="https://github.com/imashoodnasir/Pearson-Correlation-Based-Document-Classification"> Document Classification </a></td>
 		<td>MS(CS)</td>
 		<td>2018</td>
 		<td>Machine Learning</td>
@@ -182,7 +182,7 @@
 	</tr>
 	<tr>
 		<td>7</td>
-		<td><a href="https://www.google.com"> Pearson Correlation Based Feature Selection for Document Classification using Balanced Training </a></td>
+		<td><a href="https://github.com/imashoodnasir/Pearson-Correlation-Based-Document-Classification"> Pearson Correlation Based Feature Selection for Document Classification using Balanced Training </a></td>
 		<td>Sensors</td>
 		<td>3.847</td>
 		<td>27-Nov-2020</td>
@@ -246,7 +246,7 @@
 <a href="http://www.google.com">Image Stitching using SIFT Features for Panorama Creation</a><br/>
 <a href="http://www.google.com">Image Denoising using Contourlet-Based Feature Pyramid</a><br/>
 <a href="http://www.google.com">Image Matching using Point Features</a><br/>
-<a href="http://www.google.com">Document Classification based on Deep Learning</a><br/>
+<a href="https://github.com/imashoodnasir/Pearson-Correlation-Based-Document-Classification">Document Classification based on Deep Learning</a><br/>
 <a href="http://www.google.com">Polynomial Regression Based on Deep Learning</a><br/>
 <a href="http://www.google.com">Blood Vessels Extraction from Fundus Images</a><br/>
 <a href="http://www.google.com">Person Re-Identification using Multiple Cams</a><br/>
