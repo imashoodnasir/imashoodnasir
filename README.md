@@ -105,7 +105,7 @@
 		<td>MS(CS)</td>
 		<td>2018</td>
 		<td>Machine Learning</td>
-		<td><a href="https:/www/google.com"> Publication </a></td>
+		<td><a href="https://www.mdpi.com/905044"> Publication </a></td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/imashoodnasir/E-Classroom-for-Interactive-and-Connected-Learning"> E-Classroom for Interactive Learning </a></td>
