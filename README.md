@@ -239,7 +239,7 @@
 <a href="http://www.google.com">Driver Drowsiness Detection Based on Facial Features</a><br/>
 <a href="http://www.google.com">Fruit Classification for Automated Harvesting and Fruits Packing using Neural Networks</a><br/>
 <a href="http://www.google.com">Skin Lesion Detection, Segmentation, and Classification</a><br/>
-<a href="http://www.google.com">Brain Tumor Detection and Identification</a><br/>
+<a href="https://github.com/imashoodnasir/imashoodnasir-MRI-Hippocampus-Segmentation">MRI Hippocampus Segmentation</a><br/>
 <a href="http://www.google.com">DOM Creation using Computer Vision and Machine Learning Approach</a><br/>
 <a href="http://www.google.com">Ant Movement Simulator using Genetic Algorithm based Approach</a><br/>
 <a href="http://www.google.com">Skin Segmentation from Face Images</a><br/>
