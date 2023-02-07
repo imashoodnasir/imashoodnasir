@@ -164,7 +164,7 @@
 	</tr>
 	<tr>
 		<td>5</td>
-		<td><a href="https://www.google.com"> Human Action Recognition using Machine Learning in Uncontrolled Environment </a></td>
+		<td><a href="https://github.com/imashoodnasir/Human-Action-Recognition-using-Machine-Learning-in-Uncontrolled-Environment"> Human Action Recognition using Machine Learning in Uncontrolled Environment </a></td>
 		<td>1st International Conference on Artificial Intelligence and Data Analytics (CAIDA)</td>
 		<td>N/A</td>
 		<td>6-Apr-2021</td>
