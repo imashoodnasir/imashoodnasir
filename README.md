@@ -128,7 +128,7 @@
 	</tr>
 	<tr>
 		<td>1</td>
-		<td><a href="https://www.google.com"> Improved Shark Smell Optimization Algorithm for Human Action Recognition </a></td>
+		<td><a href="https://github.com/imashoodnasir/imashoodnasir-Improved-Shark-Smell-Optimization-Algorithm"> Improved Shark Smell Optimization Algorithm for Human Action Recognition </a></td>
 		<td>CMC - Computers, Materials & Continua</td>
 		<td>3.860</td>
 		<td>15-Dec-2022</td>
