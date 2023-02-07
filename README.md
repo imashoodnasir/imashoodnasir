@@ -81,7 +81,7 @@
 		<td>660</td>
 	</tr>
 </table>
-<h2>Academic Projects</h2>
+<h2>Academic Thesis</h2>
 <table>
 	<tr>
 		<th>Title</th>
