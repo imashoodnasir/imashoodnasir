@@ -137,7 +137,7 @@
 	</tr>
 	<tr>
 		<td>2</td>
-		<td><a href="https://www.google.com"> HAREDNet: A deep learning based architecture for autonomous video surveillance by recognizing human actions </a></td>
+		<td><a href="https://github.com/imashoodnasir/HAREDNet-A-Deep-Learning-based-Architecture"> HAREDNet: A deep learning based architecture for autonomous video surveillance by recognizing human actions </a></td>
 		<td>Computers and Electrical Engineering</td>
 		<td>4.150</td>
 		<td>11-Feb-2022</td>
