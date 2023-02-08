@@ -229,9 +229,9 @@
 
 <h2> Research Projects </h2>
 <h3>Related to Images/Videos</h3>
-<a href="https://github.com/imashoodnasir/Hand-Pose-Detection-in-a-Frame">Hand Pose Detection</a><br/>
-<a href="https://github.com/imashoodnasir/Fire-Detection-using-Machine-Learning">Fire Detection using Machine Learning</a><br/>
-<a href="https://github.com/imashoodnasir/Fruit-Detection">Fruit Detection</a><br/>
+<a href="https://github.com/imashoodnasir/Hand-Pose-Detection-in-a-Frame">Skeleton Based Hand Pose Detection</a><br/>
+<a href="https://github.com/imashoodnasir/Fire-Detection-using-Machine-Learning">Fire Detection using Xception Model</a><br/>
+<a href="https://github.com/imashoodnasir/Fruit-Detection">Fruit Detection usinf Resnet-50</a><br/>
 <a href="https://github.com/imashoodnasir/Breast-Cancer-Classification-for-Histopathological-Images">Breast Cancer Classification using Machine Learning</a><br/>
 <a href="http://www.google.com">Ulcer Detection using Machine Learning</a><br/>
 <a href="http://www.google.com">Signature Forgery Detection using Deep Learning</a><br/>
@@ -239,9 +239,9 @@
 <a href="http://www.google.com">Driver Drowsiness Detection Based on Facial Features</a><br/>
 <a href="http://www.google.com">Fruit Classification for Automated Harvesting and Fruits Packing using Neural Networks</a><br/>
 
-<a href="https://github.com/imashoodnasir/Skin-Cancer-Classification">Skin Cancer Classification</a><br/>
-<a href="https://github.com/imashoodnasir/Skin-Cancer-Segmentation">Skin Cancer Segmentation</a><br/>
-<a href="https://github.com/imashoodnasir/imashoodnasir-MRI-Hippocampus-Segmentation">MRI Hippocampus Segmentation</a><br/>
+<a href="https://github.com/imashoodnasir/Skin-Cancer-Classification">Skin Cancer Classification using Custom CNN after Data Analysis</a><br/>
+<a href="https://github.com/imashoodnasir/Skin-Cancer-Segmentation">Skin Cancer Segmentation using k-mean Clustering</a><br/>
+<a href="https://github.com/imashoodnasir/imashoodnasir-MRI-Hippocampus-Segmentation">MRI Hippocampus Segmentation using Encoder-Decoder Network</a><br/>
 <a href="http://www.google.com">DOM Creation using Computer Vision and Machine Learning Approach</a><br/>
 <a href="http://www.google.com">Ant Movement Simulator using Genetic Algorithm based Approach</a><br/>
 <a href="http://www.google.com">Skin Segmentation from Face Images</a><br/>
