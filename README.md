@@ -231,9 +231,8 @@
 <h3>Related to Images/Videos</h3>
 <a href="https://github.com/imashoodnasir/Hand-Pose-Detection-in-a-Frame">Hand Pose Detection</a><br/>
 <a href="https://github.com/imashoodnasir/Fire-Detection-using-Machine-Learning">Fire Detection using Machine Learning</a><br/>
-<a href="http://www.google.com">Object Detection and Classification using Salient Based Segmentation</a><br/>
+<a href="https://github.com/imashoodnasir/Fruit-Detection">Fruit Detection</a><br/>
 <a href="https://github.com/imashoodnasir/Breast-Cancer-Classification-for-Histopathological-Images">Breast Cancer Classification using Machine Learning</a><br/>
-<a href="http://www.google.com">Comic Character Classification using Machine Learning</a><br/>
 <a href="http://www.google.com">Ulcer Detection using Machine Learning</a><br/>
 <a href="http://www.google.com">Signature Forgery Detection using Deep Learning</a><br/>
 <a href="http://www.google.com">Bone Cancer Detection using MRI Images</a><br/>
