@@ -191,7 +191,7 @@
 	</tr>
 	<tr>
 		<td>8</td>
-		<td><a href="https://www.google.com"> SCNN: A Secure Convolutional Neural Network using Blockchain </a></td>
+		<td> SCNN: A Secure Convolutional Neural Network using Blockchain</td>
 		<td>International Conference on Computer and Information Sciences (ICCIS)</td>
 		<td>N/A</td>
 		<td>27-Oct-2020</td>
@@ -200,7 +200,7 @@
 	</tr>
 	<tr>
 		<td>9</td>
-		<td><a href="https://www.google.com"> A Blockchain based Framework for Stomach Abnormalities Recognition </a></td>
+		<td>A Blockchain based Framework for Stomach Abnormalities Recognition</td>
 		<td>CMC - Computers, Materials & Continua</td>
 		<td>3.860</td>
 		<td>19-Oct-2020</td>
@@ -209,7 +209,7 @@
 	</tr>
 	<tr>
 		<td>10</td>
-		<td><a href="https://www.google.com"> Deep Learning-based Classification of Fruit Diseases: An Application for Precision Agriculture </a></td>
+		<td>Deep Learning-based Classification of Fruit Diseases: An Application for Precision Agriculture</td>
 		<td>CMC - Computers, Materials & Continua</td>
 		<td>3.860</td>
 		<td>26-Nov-2020</td>
@@ -218,7 +218,7 @@
 	</tr>
 	<tr>
 		<td>11</td>
-		<td><a href="https://www.google.com"> A Hybrid Deep Learning Architecture for the Classification of Superhero Fashion Products: An Application for Medical-Tech Classification </a></td>
+		<td>A Hybrid Deep Learning Architecture for the Classification of Superhero Fashion Products: An Application for Medical-Tech Classification</td>
 		<td>Computer Modeling in Engineering and Sciences</td>
 		<td>2.027</td>
 		<td>21-Aug-2021</td>
