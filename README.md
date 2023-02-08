@@ -241,7 +241,7 @@
 <a href="https://github.com/imashoodnasir/Skin-Cancer-Segmentation">Skin Cancer Segmentation using k-mean Clustering</a><br/>
 <a href="https://github.com/imashoodnasir/imashoodnasir-MRI-Hippocampus-Segmentation">MRI Hippocampus Segmentation using Encoder-Decoder Network</a><br/>
 <a href="http://www.google.com">Skin Segmentation from Face Images</a><br/>
-<a href="http://www.google.com">Image Stitching using SIFT Features for Panorama Creation</a><br/>
+<a href="https://github.com/imashoodnasir/Image-Stitching-using-SIFT-Features-for-Panorama-Creation">Image Stitching using SIFT Features for Panorama Creation</a><br/>
 <a href="http://www.google.com">Image Denoising using Contourlet-Based Feature Pyramid</a><br/>
 <a href="https://github.com/imashoodnasir/Image-Matching-using-Point-Features">Image Matching using Point Features</a><br/>
 <a href="https://github.com/imashoodnasir/Pearson-Correlation-Based-Document-Classification">Document Classification based on Deep Learning</a><br/>
