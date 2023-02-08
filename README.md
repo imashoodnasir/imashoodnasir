@@ -233,7 +233,7 @@
 <a href="https://github.com/imashoodnasir/Fire-Detection-using-Machine-Learning">Fire Detection using Xception Model</a><br/>
 <a href="https://github.com/imashoodnasir/Fruit-Detection">Fruit Detection using Resnet-50</a><br/>
 <a href="https://github.com/imashoodnasir/Breast-Cancer-Classification-for-Histopathological-Images">Breast Cancer Classification using Machine Learning</a><br/>
-<a href="http://www.google.com">Ulcer Detection using Machine Learning</a><br/>
+<a href="https://github.com/imashoodnasir/Endoscopy-Image-Processing-using-Feature-Fusion">Endoscopy Image Processing using Feature Fusion</a><br/>
 <a href="http://www.google.com">Signature Forgery Detection using Deep Learning</a><br/>
 <a href="http://www.google.com">Bone Cancer Detection using MRI Images</a><br/>
 <a href="http://www.google.com">Driver Drowsiness Detection Based on Facial Features</a><br/>
