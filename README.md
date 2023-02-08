@@ -234,7 +234,7 @@
 <a href="https://github.com/imashoodnasir/Fruit-Detection">Fruit Detection using Resnet-50</a><br/>
 <a href="https://github.com/imashoodnasir/Breast-Cancer-Classification-for-Histopathological-Images">Breast Cancer Classification using Machine Learning</a><br/>
 <a href="https://github.com/imashoodnasir/Endoscopy-Image-Processing-using-Feature-Fusion">Endoscopy Image Processing using Feature Fusion</a><br/>
-<a href="http://www.google.com">Signature Forgery Detection using Deep Learning</a><br/>
+<a href="https://github.com/imashoodnasir/Signature-Verification-using-Euclidean-Distance">Signature Forgery Detection using Euclidean Distance</a><br/>
 <a href="https://github.com/imashoodnasir/Bone-Marrow-Classification-using-EfficientNetB5">Bone Marrow Classification using EfficientNetB5</a><br/>
 <a href="http://www.google.com">Driver Drowsiness Detection Based on Facial Features</a><br/>
 <a href="http://www.google.com">Fruit Classification for Automated Harvesting and Fruits Packing using Neural Networks</a><br/>
