@@ -237,12 +237,9 @@
 <a href="https://github.com/imashoodnasir/Signature-Verification-using-Euclidean-Distance">Signature Forgery Detection using Euclidean Distance</a><br/>
 <a href="https://github.com/imashoodnasir/Bone-Marrow-Classification-using-EfficientNetB5">Bone Marrow Classification using EfficientNetB5</a><br/>
 <a href="https://github.com/imashoodnasir/Driver-Drowsiness-Detection-Based-on-Facial-Features">Driver Drowsiness Detection Based on Facial Features</a><br/>
-<a href="http://www.google.com">Fruit Classification for Automated Harvesting and Fruits Packing using Neural Networks</a><br/>
 <a href="https://github.com/imashoodnasir/Skin-Cancer-Classification">Skin Cancer Classification using Custom CNN after Data Analysis</a><br/>
 <a href="https://github.com/imashoodnasir/Skin-Cancer-Segmentation">Skin Cancer Segmentation using k-mean Clustering</a><br/>
 <a href="https://github.com/imashoodnasir/imashoodnasir-MRI-Hippocampus-Segmentation">MRI Hippocampus Segmentation using Encoder-Decoder Network</a><br/>
-<a href="http://www.google.com">DOM Creation using Computer Vision and Machine Learning Approach</a><br/>
-<a href="http://www.google.com">Ant Movement Simulator using Genetic Algorithm based Approach</a><br/>
 <a href="http://www.google.com">Skin Segmentation from Face Images</a><br/>
 <a href="http://www.google.com">Image Stitching using SIFT Features for Panorama Creation</a><br/>
 <a href="http://www.google.com">Image Denoising using Contourlet-Based Feature Pyramid</a><br/>
