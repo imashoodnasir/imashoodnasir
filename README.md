@@ -229,6 +229,8 @@
 
 <h2> Research Projects </h2>
 <h3>Related to Images/Videos</h3>
+
+<a href="https://github.com/imashoodnasir/Image-Colorization">Image Colorization</a><br/>
 <a href="https://github.com/imashoodnasir/Hand-Pose-Detection-in-a-Frame">Skeleton Based Hand Pose Detection</a><br/>
 <a href="https://github.com/imashoodnasir/Fire-Detection-using-Machine-Learning">Fire Detection using Xception Model</a><br/>
 <a href="https://github.com/imashoodnasir/Fruit-Detection">Fruit Detection using Resnet-50</a><br/>
