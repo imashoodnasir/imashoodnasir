@@ -257,7 +257,7 @@
 
 <h3>Related to Data Sciences</h3>
 
-<a href="http://www.google.com">Water Quality Prediction</a><br/>
+<a href="https://github.com/imashoodnasir/Water-Quality-Prediction">Water Quality Prediction</a><br/>
 <a href="http://www.google.com">Fake News Detection using Machine Learning</a><br/>
 <a href="http://www.google.com">Sentiment Analysis on Amazon Reviews</a><br/>
 <a href="http://www.google.com">Credit Card Fraud Detection using 1-D CNN</a><br/>
