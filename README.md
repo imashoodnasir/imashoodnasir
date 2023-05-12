@@ -96,7 +96,7 @@
 		<td>2023</td>
 		<td>Machine Learning</td>
 		<td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0045790622001057"> Publication 1 </a><br>
-			<a href="#"> Publication 2 (Issue Not Published) </a> <br> <a href="#"> Publication 3 (Issue Not Published) </a><br>
+			<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423008138"> Publication 2 </a> <br> <a href="#"> Publication 3 (Issue Not Published) </a><br>
 			<a href="https://ieeexplore.ieee.org/abstract/document/9425202"> Conference 1 </a>
 		</td>
 	</tr>
