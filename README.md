@@ -38,8 +38,8 @@
 	<tr>
 		<td>Ph.D. (CS)</td>
 		<td>Comsats University Islamabad, Wah Campus, Pakistan</td>
-		<td>2018</td>
-		<td>2023</td>
+		<td>2022</td>
+		<td>2026</td>
 		<td>Machine Learning</td>
 		<td>4.00</td>
 		<td>3.42</td>
@@ -93,7 +93,7 @@
 	<tr>
 		<td><a href="https:/www/google.com"> Human Action Recogition in Uncontrolled Environment </a></td>
 		<td>Ph.D.(CS)</td>
-		<td>2023</td>
+		<td>2022 - 2026</td>
 		<td>Machine Learning</td>
 		<td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0045790622001057"> Publication 1 </a><br>
 			<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423008138"> Publication 2 </a> <br> <a href="#"> Publication 3 (Issue Not Published) </a><br>
